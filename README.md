@@ -4,5 +4,5 @@ Filmflix is a Web Application that gets the most accurate movie information usin
 
 <img src='walkthrough.gif' atl='walkthrough'/>
 
-### *npm start* to checkout the project
+### Clone and npm start to checkout the project
 
