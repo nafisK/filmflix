@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmflix/static/css/main.334bdeb1.css",
+    "main.js": "/filmflix/static/js/main.086983dd.js",
+    "index.html": "/filmflix/index.html",
+    "static/media/search.svg": "/filmflix/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.334bdeb1.css.map": "/filmflix/static/css/main.334bdeb1.css.map",
+    "main.086983dd.js.map": "/filmflix/static/js/main.086983dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.086983dd.js"
+  ]
+}
