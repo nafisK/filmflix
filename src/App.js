@@ -28,7 +28,8 @@ const App = () => {
   return (
     <div className="app">
       <h1>FilmFlix</h1>
-      // search bar
+
+      {/* search bar */}
       <div className="search">
         <input
           type="text"
@@ -44,7 +45,8 @@ const App = () => {
           }}
         />
       </div>
-      // movie cards if there are movies
+
+      {/* movie cards if there are movies */}
       {movies?.length > 0 ? (
         <div className="container">
           {movies.map((movie) => (
